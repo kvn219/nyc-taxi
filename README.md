@@ -1,6 +1,5 @@
 # proper-things
 
-Project description:
 NYC SQL Scripts for NYU Big Data Class
 
 ## Installation
